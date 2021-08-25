@@ -1,0 +1,2 @@
+Hola, mi nombre es santiago, este archvio está destinado para probar los comandos de git 
+Este es mi primer commit, Adios :)
